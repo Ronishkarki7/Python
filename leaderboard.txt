@@ -1,0 +1,1 @@
+{"Ronish": 2, "Ram": 0, "Hari": 2, "Elon Musk": -1, "Anmol": 1, "Kritik": -1, "Karan": -1, "Richard": 0, "Basnata": 1, "basanta": 2, "Puspa": 1, "ram": 0, "Jhon": 1, "sandip": 1}
